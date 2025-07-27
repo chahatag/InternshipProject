@@ -27,4 +27,4 @@ Classify tomato leaf images into 5 categories (including healthy) using a CNN mo
 
 ## Run the App
 ```bash
-streamlit run tomato_predict_app.py
+streamlit run app.py
